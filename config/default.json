@@ -1,0 +1,3 @@
+{
+    "mongoURI": "mongo.exe mongodb://localhost:27017/clinicas"
+}
